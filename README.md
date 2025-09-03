@@ -1,9 +1,3 @@
-## GROUP MEMBERS
-
-1. Harsh Agrawal - 220425
-2. Naman Kumar Jaiswal- 220687
-3. Priyanshu Singh 220830
-
 ## We have used port 12345 for listening
 
 # Chat Server with Groups & Private Messages
@@ -362,14 +356,6 @@ While the current implementation meets the assignment requirements, there are se
    - Potential Improvement:
      - Integrate a database (such as MySQL, PostgreSQL, or even a NoSQL option like MongoDB) to persist chat messages.
      - Implement message retrieval features so that users can view past conversations even after long periods, which is essential for a practical, real-world chat application.
-
----
-
-## Team Contribution
-
-Team Members: Harsh Agrawal (220425), Naman Kumar Jaiswal (220687) and Priyanshu Singh (220830)
-
-Contributions: The project was a collaborative effort, with each team member contributing equally three folds across all aspects.
 
 ---
 
